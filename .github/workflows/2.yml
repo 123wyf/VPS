@@ -24,8 +24,7 @@ jobs:
 
        env:
 
-        NGROK_TOKEN: 1aCKlwt3YOLfqAmIzmzt5ObOmdr_3HrsrgSYddvfTuzt5h3Rq 
-
+        NGROK_TOKEN: 1o405fnslv3F3wBsRcX9oDZMbmh_6XLjrXXTQGom33pzpn1Fy
         USER_PASS: mining
 
      - name: Don't kill instace
